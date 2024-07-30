@@ -1,4 +1,4 @@
-# Alejandro 🇪🇸 / 알렉스 🇰🇷 <3
+# Hello mates Welcome to my GitHub Profile 🇪🇸🇰🇷
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=black&text=Alejandro%20Magana%20&fontColor=FFFFFF&fontSize=30&animation=fadeIn&section=header&reversal=false&textBg=false&desc=알렉스&descSize=16&descAlign=90&descAlignY=30&fontAlign=30&fontAlignY=40)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/XeA1Ahjfh5sUs4KzhM/giphy.gif?cid=ecf05e47jdidrxn4b0jcdjk4jocubvfks4l7yki6trs4yq3i&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="400"/>
@@ -56,7 +56,7 @@
 <h1>About Alex In A Nutshell</h1>
 
 <div align="center">
-<img src="https://media.giphy.com/media/RGjyt5la9npHFAdkDj/giphy.gif" width="800" height"400"/>
+<img src="https://giphy.com/gifs/playstation-the-last-of-us-tlou-part-i-t5upbzp8awDW1IpCXy" width="800" height"400"/>
 
 <p align="center">
 <Strong><img src="https://media.giphy.com/media/YnUcQkUvPdHMmkLBZn/giphy.gif" width="40"> About Me : <img src="https://media.giphy.com/media/YnUcQkUvPdHMmkLBZn/giphy.gif" width="40"> </Strong><br>
