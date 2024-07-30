@@ -56,7 +56,8 @@
 <h1>About Alex In A Nutshell</h1>
 
 <div align="center">
-<img src="https://giphy.com/gifs/playstation-the-last-of-us-tlou-part-i-t5upbzp8awDW1IpCXy" width="800" height"400"/>
+<img src="https://media.giphy.com/media/RGjyt5la9npHFAdkDj/giphy.gif" width="800" height"400"/>
+<img src="https://media.giphy.com/media/t5upbzp8awDW1IpCXy/giphy.gif?cid=790b7611t0ek087tzp4rovjwlqro61o3ajf40drvw8ku8ow4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="800" height"400" />
 
 <p align="center">
 <Strong><img src="https://media.giphy.com/media/YnUcQkUvPdHMmkLBZn/giphy.gif" width="40"> About Me : <img src="https://media.giphy.com/media/YnUcQkUvPdHMmkLBZn/giphy.gif" width="40"> </Strong><br>
