@@ -1,4 +1,4 @@
-# Alejandro 🇪🇸 / Allegsu 🇰🇷 <3
+# Alejandro 🇪🇸 / 알렉스 🇰🇷 <3
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/XeA1Ahjfh5sUs4KzhM/giphy.gif?cid=ecf05e47jdidrxn4b0jcdjk4jocubvfks4l7yki6trs4yq3i&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="400"/>
 </div>
