@@ -54,7 +54,7 @@
 <Strong><img src="https://media.giphy.com/media/YnUcQkUvPdHMmkLBZn/giphy.gif" width="40"> About Me : <img src="https://media.giphy.com/media/YnUcQkUvPdHMmkLBZn/giphy.gif" width="40"> </Strong><br>
 </p>
 
-<p align="center" style="background-color: black; color: white; padding: 20px; border-radius: 8px; display: inline-block;">
+<p align="center" style="background-color: red; color: white; padding: 20px; border-radius: 8px; display: inline-block;">
   I’m improving myself to be a Full Stack Developer who was born in Spain. <br><br>
 
   - :telescope: I’m a Software Developer but I’m still a student & keep learning front-end and back-end to build applications. <br><br>
@@ -67,6 +67,7 @@
 
   For short, if you want to know more about me, don't hesitate to contact me. I'm open to working with a company looking for a beginner developer who wants to keep learning.
 </p>
+
 
 </div>
 </div>
