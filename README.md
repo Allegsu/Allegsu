@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
 </p>
 
-<p align="center"><strong>About Alex<strong></p>
+<h1>About Alex In A Nutshell</h1>
 
 <div align="center">
 <img src="https://media.giphy.com/media/RGjyt5la9npHFAdkDj/giphy.gif" width="800" height"400"/>
