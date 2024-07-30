@@ -5,14 +5,6 @@
 </div>
 
 <p align="center">
-<strong>Contact Information</strong>
-<br><br>
-<strong>📭 Email 📭</strong>
-<p align="center">allegsuma@kakao.com</p>
-<br><br>
-</p>
-
-<p align="center">
 <Strong>🌍 Social Media 🌍 </Strong><br>
 </p>
 
@@ -56,25 +48,19 @@
 <h1>About Alex In A Nutshell</h1>
 
 <div align="center">
-<img src="https://media.giphy.com/media/RGjyt5la9npHFAdkDj/giphy.gif" width="800" height"400"/>
 <img src="https://media.giphy.com/media/t5upbzp8awDW1IpCXy/giphy.gif?cid=790b7611t0ek087tzp4rovjwlqro61o3ajf40drvw8ku8ow4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="800" height"400" />
 
-<p align="center">
-<Strong><img src="https://media.giphy.com/media/YnUcQkUvPdHMmkLBZn/giphy.gif" width="40"> About Me : <img src="https://media.giphy.com/media/YnUcQkUvPdHMmkLBZn/giphy.gif" width="40"> </Strong><br>
-</p>
-
 <p align="center" display="inline-block">
-I’m improving myself to be a Full Stack Developer who born in Spain. 
 
-- :telescope: I’m a Software Developer but I’m still a student & keep learning fronted and backend for build applications. 
+Full Stack Developer 👨🏻‍💻
 
-- :seedling: Exploring & making visual enchanted content.
+Currently studying Software Engineering with a focus on front-end development. 🏹
 
-- :zap: My hobbies are playing games, read & study or solve issues through random codes or applications. 
+Exploring & making visual enchanted content. 🌱
 
-- :mailbox: How to reach me: Working on that…
+My hobbies are playing games, read & study or solve issues through random codes or applications. 🎲
 
-For short if you want to know more about me don't hesitate to contact me I'm free to work along with a company who is looking a beginner developer who want to keep learning.
+How to reach me: allegsuma@kakao.com 📭 
 </p>
 
 </div>
