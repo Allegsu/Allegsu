@@ -55,6 +55,7 @@
 </p>
 
 <p align="center" display="inline-block">
+![Top Languages](https://readme-stats.vercel.app/api/top-langs/?username=allegsu&layout=compact)
 I’m improving myself to be a Full Stack Developer who born in Spain. 
 
 - :telescope: I’m a Software Developer but I’m still a student & keep learning fronted and backend for build applications. 
