@@ -54,20 +54,19 @@
 <Strong><img src="https://media.giphy.com/media/YnUcQkUvPdHMmkLBZn/giphy.gif" width="40"> About Me : <img src="https://media.giphy.com/media/YnUcQkUvPdHMmkLBZn/giphy.gif" width="40"> </Strong><br>
 </p>
 
-<p align="center" style="background-color: red; color: white; padding: 20px; border-radius: 8px; display: inline-block;">
-  I’m improving myself to be a Full Stack Developer who was born in Spain. <br><br>
+<p align="center" display="inline-block">
+I’m improving myself to be a Full Stack Developer who born in Spain. 
 
-  - :telescope: I’m a Software Developer but I’m still a student & keep learning front-end and back-end to build applications. <br><br>
+- :telescope: I’m a Software Developer but I’m still a student & keep learning fronted and backend for build applications. 
 
-  - :seedling: Exploring & making visually engaging content. <br><br>
+- :seedling: Exploring & making visual enchanted content.
 
-  - :zap: My hobbies are playing games, reading, studying, or solving issues through random code or applications. <br><br>
+- :zap: My hobbies are playing games, read & study or solve issues through random codes or applications. 
 
-  - :mailbox: How to reach me: Working on that… <br><br>
+- :mailbox: How to reach me: Working on that…
 
-  For short, if you want to know more about me, don't hesitate to contact me. I'm open to working with a company looking for a beginner developer who wants to keep learning.
+For short if you want to know more about me don't hesitate to contact me I'm free to work along with a company who is looking a beginner developer who want to keep learning.
 </p>
-
 
 </div>
 </div>
