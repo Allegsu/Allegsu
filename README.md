@@ -8,6 +8,15 @@
 <Strong>🌍 Social Media 🌍 </Strong><br>
 </p>
 
+<p align="center" display="inline-block">
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+<a>
+<a href="https://open.spotify.com">
+<img src="https://img.shields.io/badge/Spotify-green?logo=Spotify&logoColor=white&style=for-the-badge"/>
+<a>
+</p>
+
 </a>
 <a href="https://www.playstation.com/en-gb/">
 <img src="https://img.shields.io/badge/PlayStation-darkblue?logo=PlayStation&logoColor=white&style=for-the-badge"/>
