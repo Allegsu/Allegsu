@@ -45,9 +45,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
 </p>
 
-<h1>
-Oh! you're reading this... Hi mate... <img src="https://media.giphy.com/media/QYY3HjM2qPGPm0Hf4y/giphy.gif" width="60"/>
-</h1>
+<h1 style="text-align: center;" >About Alex </h1>
 
 <div align="center">
 <img src="https://media.giphy.com/media/RGjyt5la9npHFAdkDj/giphy.gif" width="800" height"400"/>
