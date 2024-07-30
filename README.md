@@ -7,9 +7,6 @@
 <Strong>🌍 Social Media 🌍 </Strong><br>
 </p>
 
-<p align="center" display="inline-block">
-<a href="https://www.epicgames.com/site/en-US/home">
-<img src="https://img.shields.io/badge/EpicGames-black?logo=EpicGames&logoColor=white&style=for-the-badge"/>
 </a>
 <a href="https://www.playstation.com/en-gb/">
 <img src="https://img.shields.io/badge/PlayStation-darkblue?logo=PlayStation&logoColor=white&style=for-the-badge"/>
