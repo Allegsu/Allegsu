@@ -58,7 +58,7 @@ Full Stack Developer 👨🏻‍💻
 
 - Exploring & making visual enchanted content. 🌱
 
-- My hobbies are playing games, read & study or solve issues through random codes or applications. 🎲
+- My hobbies include playing games, reading, studying, and solving issues through random coding or applications. 🎲
 
 - How to reach me: allegsumaga@daum.net 📭 
 </p>
