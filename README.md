@@ -49,7 +49,7 @@
 
 <div align="justify">
 <img src="https://media.giphy.com/media/f9SpXPGrTmMUV6hCFA/giphy.gif" width="300" height="300" />
-<img src="https://media.giphy.com/media/E4Mxjhqe3e45dFXDl7/giphy.gif" width="300" height="200" />
+<img src="https://media.giphy.com/media/E4Mxjhqe3e45dFXDl7/giphy.gif" width="480" height="192" />
 <p align="justify">
 
 Full Stack Developer 👨🏻‍💻
