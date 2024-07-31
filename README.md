@@ -1,7 +1,7 @@
 # Hello mates Welcome to my GitHub Profile 🇪🇸🇰🇷
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=black&text=Alejandro%20Magana%20&fontColor=FFFFFF&fontSize=30&animation=fadeIn&section=header&reversal=false&textBg=false&desc=알렉스&descSize=16&descAlign=90&descAlignY=30&fontAlign=30&fontAlignY=40)
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/XeA1Ahjfh5sUs4KzhM/giphy.gif?cid=ecf05e47jdidrxn4b0jcdjk4jocubvfks4l7yki6trs4yq3i&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="400"/>
+  <img src="https://media.giphy.com/media/XeA1Ahjfh5sUs4KzhM/giphy.gif?cid=ecf05e47jdidrxn4b0jcdjk4jocubvfks4l7yki6trs4yq3i&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300"/>
 </div>
 
 <p align="center">
