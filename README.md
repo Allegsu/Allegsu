@@ -54,13 +54,13 @@
 
 Full Stack Developer 👨🏻‍💻
 
-Currently studying Software Engineering with a focus on front-end development. 🏹
+- Currently studying Software Engineering with a focus on front-end development. 🏹
 
-Exploring & making visual enchanted content. 🌱
+- Exploring & making visual enchanted content. 🌱
 
-My hobbies are playing games, read & study or solve issues through random codes or applications. 🎲
+- My hobbies are playing games, read & study or solve issues through random codes or applications. 🎲
 
-How to reach me: allegsuma@kakao.com 📭 
+- How to reach me: allegsumaga@daum.net 📭 
 </p>
 
 </div>
