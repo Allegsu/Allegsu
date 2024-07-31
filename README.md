@@ -48,9 +48,8 @@
 <h1>About Alex In A Nutshell</h1>
 
 <div align="justify">
-<img src="https://media.giphy.com/media/t5upbzp8awDW1IpCXy/giphy.gif?cid=790b7611t0ek087tzp4rovjwlqro61o3ajf40drvw8ku8ow4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="800" height"400" />
-<img src="https://media.giphy.com/media/f9SpXPGrTmMUV6hCFA/giphy.gif" width="600" height="400" />
-
+<img src="https://media.giphy.com/media/f9SpXPGrTmMUV6hCFA/giphy.gif" width="300" height="300" />
+<img src="https://media.giphy.com/media/E4Mxjhqe3e45dFXDl7/giphy.gif" width="300" height="300" />
 <p align="justify">
 
 Full Stack Developer 👨🏻‍💻
