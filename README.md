@@ -13,8 +13,7 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <a>
 <a href="https://allegsu.github.io/alex_portfolio/">
-<img src="https://img.shields.io/badge/%EC%95%8C%EB%A0%89%EC%8A%A4--Website-badge?style=for-the-badge&logo=fireship&logoColor=white&color=%23900909
-"/>
+<img src="https://img.shields.io/badge/%EC%95%8C%EB%A0%89%EC%8A%A4--Website-badge?style=for-the-badge&logo=fireship&logoColor=white&color=%23900909"/>
 <a>
 </p>
 
@@ -37,10 +36,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/react-badge?style=for-the-badge&logo=react&logoColor=white&color=black
-" />
-<img src="https://img.shields.io/badge/python-badge?style=for-the-badge&logo=python&logoColor=white&color=%232f0361
-"/>
+<img src="https://img.shields.io/badge/react-badge?style=for-the-badge&logo=react&logoColor=white&color=black" />
+<img src="https://img.shields.io/badge/python-badge?style=for-the-badge&logo=python&logoColor=white&color=%232f0361"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <br><br>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
